@@ -1,2 +1,2 @@
-# -Core-Data-storage
+# Data storage
 A repository for storing various data dump.
